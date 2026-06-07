@@ -1,0 +1,38 @@
+# OS files
+.DS_Store
+Thumbs.db
+db.json
+
+# Temporary / logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node / local modules
+node_modules/
+dist/
+build/
+
+# Local configuration files
+.env
+.env.local
+.env.*.local
+*.local
+credentials.json
+google-services.json
+GoogleService-Info.plist
+*.p12
+*.pem
+*.key
+*.token
+notebooks.json
+
+# IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
