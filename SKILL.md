@@ -1,11 +1,11 @@
 ---
 name: antigravity-lazy-package
-description: AntiGravity 安裝懶人包 — 一鍵管理與引導安裝您目前的所有 19 個自訂技能。說「安裝 Antigravity 懶人包」「載入所有技能」時載入。
+description: AntiGravity 安裝懶人包 — 一鍵管理與引導安裝您目前的所有 22 個自訂技能。說「安裝 Antigravity 懶人包」「載入所有技能」時載入。
 ---
 
 # AntiGravity 安裝懶人包 — AI Agent 自動安裝入口
 
-本懶人包包含了您目前所安裝過的所有自訂技能（共 19 個）。您可以隨時將此儲存庫作為您在不同專案、不同環境的 AI Agent 技能基底。
+本懶人包包含了您目前所安裝過的所有自訂技能（共 22 個）。您可以隨時將此儲存庫作為您在不同專案、不同環境的 AI Agent 技能基底。
 
 ## 技能清單與說明
 
@@ -30,6 +30,9 @@ description: AntiGravity 安裝懶人包 — 一鍵管理與引導安裝您目�
 | **17** | `threads-post` | 為 Rich 生成適合 Threads 的每日短文/脆文 | `skills/threads-post` |
 | **18** | `weekly-report` | 產生每週進度報告 HTML（整合 Google Calendar & Notion） | `skills/weekly-schedule-report` |
 | **19** | `wendashi-pptx` | 製作問大師家族辦公室（Wendashi Family Office）品牌簡報 | `skills/wendashi-pptx` |
+| **20** | `startup` | 開工自動同步流程，讀取 Obsidian 狀態與 Git 狀態（只讀不寫）。 | `skills/startup` |
+| **21** | `shutdown` | 收工自動同步流程，專案 Git 同步、Chezmoi 同步與安全檢查。 | `skills/shutdown` |
+| **22** | `project-init` | 新專案初始化流程，自動建立專案文件、Git 初始化與 GitHub 私有 Repo 建立。 | `skills/project-init` |
 
 ---
 

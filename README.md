@@ -1,14 +1,14 @@
 # AntiGravity 安裝懶人包 (Antigravity Lazy Package)
 
-> **版本**：v2.0 (2026-06-08)  
+> **版本**：v2.1 (2026-06-25)  
 > **適用平台**：AntiGravity / Claude Code 等支援自訂技能 (Skills) 之 AI Agent 助理  
 > **維護者**：Rich Wang (問大師家族辦公室)
 
-這是一份專為 **Rich** 設計的 **AntiGravity 安裝懶人包**。本儲存庫整合了您目前所有安裝過且驗證完成的 **19 個自訂技能 (Custom Skills)**，方便您在不同的專案環境中一鍵部署與快速連接。
+這是一份專為 **Rich** 設計的 **AntiGravity 安裝懶人包**。本儲存庫整合了您目前所有安裝過且驗證完成的 **22 個自訂技能 (Custom Skills)**，方便您在不同的專案環境中一鍵部署與快速連接。
 
 ---
 
-## 🌟 包含的 19 個自訂技能一覽
+## 🌟 包含的 22 個自訂技能一覽
 
 | 編號 | 技能名稱 (Skill Name) | 主要功能說明 (Key Features) |
 | :--- | :--- | :--- |
@@ -30,7 +30,10 @@
 | **16** | [sync-inspiration](skills/sync-inspiration) | 一鍵同步瀏覽器或手機端的靈感 Clippings 至 Notion。 |
 | **17** | [threads-post](skills/threads-post) | 生成適合 Threads 平台的每日理財與信託規劃短脆文。 |
 | **18** | [weekly-schedule-report](skills/weekly-schedule-report) | 查詢 Calendar 與 Notion 自動產生每週進度報告網頁。 |
-| **19** | [wendashi-pptx](skills/wendashi-pptx) | 問大師家族辦公室（Wendashi Family Office）品牌簡報製作。 |
+| **19** | [wendashi-pptx](skills/wendashi-pptx) | 製作問大師家族辦公室（Wendashi Family Office）品牌簡報。 |
+| **20** | [startup](skills/startup) | 開工自動同步流程，讀取 Obsidian 狀態與 Git 狀態（只讀不寫）。 |
+| **21** | [shutdown](skills/shutdown) | 收工自動同步流程，專案 Git 同步、Chezmoi 同步與安全檢查。 |
+| **22** | [project-init](skills/project-init) | 新專案初始化流程，自動建立專案文件、Git 初始化與 GitHub 私有 Repo 建立。 |
 
 ---
 
