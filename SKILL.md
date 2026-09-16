@@ -19,7 +19,7 @@ description: AntiGravity 安裝懶人包 — 一鍵管理與引導安裝您目�
 | **06** | `antigravity-obsidian` | 在 AntiGravity 連接 Obsidian MCP (MCPVault) | `skills/antigravity-obsidian` |
 | **07** | `fb-long-post` | 專為 Rich（信託規劃專家）撰寫高流量 FB 長文與文案優化 | `skills/fb-long-post` |
 | **08** | `html-slide-builder` | 根據教材自動生成 Reveal.js HTML 互動簡報並部署 | `skills/html-slide-builder` |
-| **09** | `image-prompt-wizard` | AI 圖片 Prompt 生成嚮導（引導式生成英文 Prompt） | `skills/image-prompt-wizard` |
+| **09** | `image-prompt-wizard` | AI 圖片 Prompt 生成嚮導（引導式生成中/英文雙語 Prompt） | `skills/image-prompt-wizard` |
 | **10** | `morning` | 早晨日報技能：查詢 Gmail、Google Calendar、Notion 產出日報網頁 | `skills/morning-briefing` |
 | **11** | `newspaper-pptx` | 新聞排版技能：將新聞排版成經濟日報報紙風格單頁 PPTX | `skills/newspaper-pptx` |
 | **12** | `notion-inspiration-box` | 快速將靈感、想法與資訊儲存到 Notion 靈感收集資料盒 | `skills/notion-inspiration-box` |

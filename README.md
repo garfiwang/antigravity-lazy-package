@@ -20,7 +20,7 @@
 | **06** | [antigravity-obsidian](skills/antigravity-obsidian) | 連接 Obsidian 知識管理庫 (MCPVault)，同步專案駕駛艙。 |
 | **07** | [fb-long-post](skills/fb-long-post) | 撰寫具有高流量、戲劇張力與問大師品牌風格的 FB 長文。 |
 | **08** | [html-slide-builder](skills/html-slide-builder) | 給定教材後自動生成 Reveal.js HTML 互動簡報並部署至 GitHub Pages。 |
-| **09** | [image-prompt-wizard](skills/image-prompt-wizard) | 引導式問答生成 Midjourney / DALL-E 等英文圖片 Prompt 嚮導。 |
+| **09** | [image-prompt-wizard](skills/image-prompt-wizard) | 引導式問答生成中/英文雙語圖片 Prompt（相容 Midjourney / DALL-E / SD / Flux）。 |
 | **10** | [morning-briefing](skills/morning-briefing) | 早晨日報技能：查詢 Gmail、Google Calendar、Notion 產出美觀的日報 HTML。 |
 | **11** | [newspaper-pptx](skills/newspaper-pptx) | 將新聞文章排版成《經濟日報》風格的單頁 PPTX 簡報。 |
 | **12** | [notion-inspiration-box](skills/notion-inspiration-box) | 將您的臨時靈感與資訊快速儲存至 Notion 靈感盒資料庫。 |
